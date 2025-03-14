@@ -8,19 +8,20 @@ Task Management – Create, update, and delete tasks effortlessly.
 Search Functionality – Quickly find tasks using a search bar.
 Responsive UI – Clean and simple design with HTML & CSS.
 SQLite3 Database – Lightweight and efficient database for storing user and task data.
-🏠 Main Page
+
+## Main Page
 ![main_page](https://github.com/user-attachments/assets/128bac4c-a19c-4faa-9f01-fc5d49ee8292)
 
 
-🔐 Login Page
+## Login Page
 
 ![login_page](https://github.com/user-attachments/assets/47a1a3cc-a94a-4fa9-9eea-11f9381bbbc8)
 
-🚪 Logout Page
+## Logout Page
 
 ![logout_page](https://github.com/user-attachments/assets/57ffdc1a-86f6-429f-a652-ad79f14c3414)
 
-🛠️ Tech Stack
+## Tech Stack
 Django – Backend framework for handling logic and authentication.
 HTML & CSS – Frontend for a clean UI experience.
 SQLite3 – Database for storing tasks and user data.
