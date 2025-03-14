@@ -1,4 +1,4 @@
-##Django Todo List
+## Django Todo List
 
 A simple yet powerful Todo List Web Application built using Django, HTML, CSS, and SQLite3. This project allows users to create, update, delete, and search tasks, along with essential user authentication features such as registration, login, and logout.
 
